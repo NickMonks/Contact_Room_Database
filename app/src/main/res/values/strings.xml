@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactRoom</string>
+    <string name="hint">Enter Name</string>
+    <string name="occupation_hint">Ocuppation</string>
+    <string name="save_button">Save</string>
+    <string name="empty">Enter Information</string>
+    <string name="description">Plus button Icon</string>
+    <string name="Update_text">Update</string>
+    <string name="delete_button">Delete</string>
+</resources>
